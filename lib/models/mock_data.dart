@@ -1,0 +1,96 @@
+import 'package:flutter_application_2/models/tarefa.dart';
+
+
+final TAREFAS_MOCK = [
+  Tarefa(
+    id: '1',
+    nome: 'Tarefa 1',
+    data: '17/05/2025',
+    hora: '14:02:00',
+    endereco_formatado: 'rua 01 formatada',
+  ),
+  Tarefa(
+    id: '2',
+    nome: 'Tarefa 2',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 02 formatada',
+  ),
+  Tarefa(
+    id: '3',
+    nome: 'Tarefa 3',
+    data: '17/05/2025',
+    hora: '14:02:00',
+    endereco_formatado: 'rua 03 formatada',
+  ),
+  Tarefa(
+    id: '4',
+    nome: 'Tarefa 4',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 04 formatada',
+  ),
+  Tarefa(
+    id: '5',
+    nome: 'Tarefa 5',
+    data: '17/05/2025',
+    hora: '14:02:00',
+    endereco_formatado: 'rua 05 formatada',
+  ),
+  Tarefa(
+    id: '6',
+    nome: 'Tarefa 6',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 06 formatada',
+  ),
+  Tarefa(
+    id: '7',
+    nome: 'Tarefa 7',
+    data: '17/05/2025',
+    hora: '14:02:00',
+    endereco_formatado: 'rua 07 formatada',
+  ),
+  Tarefa(
+    id: '8',
+    nome: 'Tarefa 8',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 08 formatada',
+  ),
+  Tarefa(
+    id: '9',
+    nome: 'Tarefa 9',
+    data: '17/05/2025',
+    hora: '14:02:00',
+    endereco_formatado: 'rua 09 formatada',
+  ),
+  Tarefa(
+    id: '10',
+    nome: 'Tarefa 10',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 10 formatada',
+  ),
+  Tarefa(
+    id: '11',
+    nome: 'Tarefa 11',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 11 formatada',
+  ),
+  Tarefa(
+    id: '12',
+    nome: 'Tarefa 12',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 12 formatada',
+  ),
+  Tarefa(
+    id: '13',
+    nome: 'Tarefa 13',
+    data: '27/05/2025',
+    hora: '24:02:00',
+    endereco_formatado: 'rua 13 formatada',
+  ),
+];
